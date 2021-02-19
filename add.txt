@@ -1,0 +1,6 @@
+cordova platform rm android && cordova platform add android@9
+
+cordova plugin add cordova-plugin-androidx
+
+cordova plugin add cordova-plugin-androidx-adapter
+
